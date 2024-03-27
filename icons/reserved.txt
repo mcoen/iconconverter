@@ -1,0 +1,6 @@
+hand
+face-smile
+heart
+star
+trash-can
+thumbs-up
